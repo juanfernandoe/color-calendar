@@ -1,5 +1,5 @@
 {
-  "name": "@cherrol/color-calendar",
+  "name": "color-calendar",
   "version": "1.0.12",
   "description": "A customizable events calendar widget library",
   "main": "dist/bundle.cjs.js",
